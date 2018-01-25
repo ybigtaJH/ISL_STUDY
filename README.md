@@ -1,2 +1,2 @@
 # ISL_STUDY
-Documents as a result of a ISL_Study in yBigTa
+These are documents of what I studied in ISL_Study(yBigTa DS Team)
